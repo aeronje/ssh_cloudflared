@@ -41,4 +41,4 @@ Host tunnelName-ssh
 
 ***Do the needful for authentication in the OS level and start using the Remote Explorer in VSCode***
 
-***If you do not wish to use VSCode, you may continue the SSH via terminal by just running this command: ```ssh -o ProxyCommand="C:\Users\userName\Downloads\cloudflared.exe access ssh --hostname %h" user@ssh.hostname```
+***If you do not wish to use VSCode, you may continue the SSH via terminal by just running this command:*** ```ssh -o ProxyCommand="C:\Users\userName\Downloads\cloudflared.exe access ssh --hostname %h" user@ssh.hostname```
