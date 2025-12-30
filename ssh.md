@@ -30,7 +30,7 @@
 
 ***Below is the sample config which will be different from your setup***
 
-````
+```
 Host tunnelName-ssh
     HostName ssh.hostname
     User user
